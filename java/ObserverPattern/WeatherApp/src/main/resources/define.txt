@@ -1,0 +1,1 @@
+The observer pattern defines a one-to-many dependency objects, so when an object changes state, all of its dependents are notified and updated automatically.
