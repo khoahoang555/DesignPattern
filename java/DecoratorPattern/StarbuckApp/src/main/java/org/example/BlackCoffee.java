@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class BlackCoffee extends Beverage {
 
     public BlackCoffee() {
-        this.setDescription("I'm black coffee!");
+        this.description = "Black Coffee";
     }
 
     @Override

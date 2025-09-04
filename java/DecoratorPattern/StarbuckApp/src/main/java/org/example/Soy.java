@@ -3,19 +3,19 @@
  */
 package org.example;
 
-public class Sugar extends CondimentDecorator {
+public class Soy extends CondimentDecorator {
 
-    public Sugar(Beverage beverage) {
+    public Soy(Beverage beverage) {
         this.beverage = beverage;
     }
 
     @Override
     protected int cost() {
-        return this.beverage.cost() + 5;
+        return this.beverage.cost() + 2;
     }
 
     @Override
     public String getDescription() {
-        return this.beverage.getDescription() + ", Sugar";
+        return this.beverage.getDescription() + ", Soy";
     }
 }
