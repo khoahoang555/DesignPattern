@@ -1,0 +1,10 @@
+claude-sonet-4.6
+
+Hãy đọc và tổng hợp giúp tôi chương 2 theo pattern sau:  
+- Khó khăn khi không áp dụng pattern này (tổng hợp theo câu chuyện sau đó tóm tắt các khó khăn)  
+- Ví dụ cụ thể về code khó khăn  
+- Cách pattern này giải quyết vấn đề  
+- Ví dụ cụ thể về code đã áp dụng pattern này  
+- Định nghĩa của pattern  
+- Phân tích điểm mạnh yếu của pattern  
+- Có điểm gì cần chú ý khi sử dụng pattern này không?
